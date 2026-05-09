@@ -2,7 +2,7 @@
 slug: "why-freelancers-should-separate-client-review-from-invoicing"
 title: "Why Freelancers Should Separate Client Review From Invoicing"
 description: "A practical case for reviewing client work before sending the invoice, so payment feels clearer and less awkward."
-publishedAt: "2026-05-01"
+publishedAt: "2026-05-02"
 author: "Otterflow Team"
 categories:
   - "Freelancing"

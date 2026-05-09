@@ -2,7 +2,7 @@
 slug: "how-to-get-client-approval-before-sending-an-invoice"
 title: "How To Get Client Approval Before Sending An Invoice"
 description: "A practical workflow for getting client approval before invoicing, so the invoice can stay simple and payment feels less awkward."
-publishedAt: "2026-05-08"
+publishedAt: "2026-05-02"
 author: "Otterflow Team"
 categories:
   - "Freelancing"
