@@ -8,7 +8,7 @@ categories:
   - "Freelancing"
   - "Client Reviews"
   - "Invoicing"
-coverImage: "https://raw.githubusercontent.com/ynnhlr/otterflow-content/main/blog/why-freelancers-should-separate-client-review-from-invoicing.webp"
+coverImage: "https://raw.githubusercontent.com/ynnhlr/otterflow-content/main/blog/en/why-freelancers-should-separate-client-review-from-invoicing.webp"
 ---
 
 # Why freelancers should separate client review from invoicing

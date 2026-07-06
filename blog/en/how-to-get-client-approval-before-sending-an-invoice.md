@@ -8,7 +8,7 @@ categories:
   - "Freelancing"
   - "Client Reviews"
   - "Invoicing"
-coverImage: "https://raw.githubusercontent.com/ynnhlr/otterflow-content/main/blog/how-to-get-client-approval-before-sending-an-invoice.webp"
+coverImage: "https://raw.githubusercontent.com/ynnhlr/otterflow-content/main/blog/en/how-to-get-client-approval-before-sending-an-invoice.webp"
 ---
 
 # How to get client approval before sending an invoice
