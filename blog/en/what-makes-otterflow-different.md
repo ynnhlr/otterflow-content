@@ -8,7 +8,7 @@ categories:
   - "Product"
   - "Client Reviews"
   - "Freelancing"
-coverImage: "https://raw.githubusercontent.com/ynnhlr/otterflow-content/main/blog/what-makes-otterflow-different.webp"
+coverImage: "https://raw.githubusercontent.com/ynnhlr/otterflow-content/main/blog/en/what-makes-otterflow-different.webp"
 ---
 
 # What makes Otterflow different

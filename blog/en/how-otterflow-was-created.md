@@ -8,7 +8,7 @@ categories:
   - "Product"
   - "Client Reviews"
   - "Invoicing"
-coverImage: "https://raw.githubusercontent.com/ynnhlr/otterflow-content/main/blog/how-otterflow-was-created.webp"
+coverImage: "https://raw.githubusercontent.com/ynnhlr/otterflow-content/main/blog/en/how-otterflow-was-created.webp"
 ---
 
 # How Otterflow was created

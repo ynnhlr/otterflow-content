@@ -8,7 +8,7 @@ categories:
   - "Freelancing"
   - "Client Reviews"
   - "Invoicing"
-coverImage: "https://raw.githubusercontent.com/ynnhlr/otterflow-content/main/blog/time-tracking-is-solved-the-handoff-before-invoicing-isnt.webp"
+coverImage: "https://raw.githubusercontent.com/ynnhlr/otterflow-content/main/blog/en/time-tracking-is-solved-the-handoff-before-invoicing-isnt.webp"
 ---
 
 # Time tracking is easy. Client approval before invoicing is not.
